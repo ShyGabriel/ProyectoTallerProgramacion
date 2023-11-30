@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author Henry Marina
  */
 public class Transacciones {
-    //Crear un método para buscar el número de cuenta
+    //Crear un método para buscar el número de cuenta --
      public static int buscarNumeroDeCuenta(Cuenta cuentas[],int numeroDeCuentaAbucar){
          int indice = 0;
          int iterador = 0;
