@@ -139,7 +139,7 @@ public class Transacciones {
                        break;
                        
                    case 4:
-                       System.out.println("\nGracias por participar");
+                       System.out.println("\nGracias por escogernos");
                        opcion = 4;
                        break;
                        
